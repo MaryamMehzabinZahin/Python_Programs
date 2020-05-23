@@ -15,5 +15,4 @@ def is_leap(year):
 
 
 year = int(raw_input())
-p=print is_leap(year)
-print(p)
+printis_leap(year)
